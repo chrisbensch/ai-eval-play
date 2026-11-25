@@ -1,0 +1,11 @@
+# Local benchmark output and configuration
+/benchmark_results*/
+/.benchmark.local.json
+/.env
+/.env.*
+
+# Python and macOS
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
